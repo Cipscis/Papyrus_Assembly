@@ -1,0 +1,11 @@
+{
+	"cmd": [
+		"C:\\Users\\mark.hanna\\Dropbox\\Cipscis\\Skyrim\\Papyrus Compiler\\PapyrusAssembler",
+		"$file_base_name",
+		"-V",
+		"-D"
+	],
+	"working_dir": "$file_path",
+	"file_regex": "(^.*\\.pex)\\(([0-9]*),([0-9]*)\\)",
+	"selector": "source.compiled papyrus"
+}
